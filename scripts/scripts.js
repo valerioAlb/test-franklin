@@ -1,4 +1,4 @@
-import {
+ import {
   sampleRUM,
   buildBlock,
   loadHeader,
@@ -128,3 +128,4 @@ async function loadPage() {
 }
 
 loadPage();
+alert('hello world');
