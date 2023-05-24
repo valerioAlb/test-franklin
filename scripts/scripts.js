@@ -128,4 +128,3 @@ async function loadPage() {
 }
 
 loadPage();
-alert('hello world');
